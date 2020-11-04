@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tironeac_Sofia_Lab5", "Tironeac_Sofia_Lab5.csproj", "{060795F4-89C7-43BE-8290-1DAC0DDFA511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060795F4-89C7-43BE-8290-1DAC0DDFA511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060795F4-89C7-43BE-8290-1DAC0DDFA511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060795F4-89C7-43BE-8290-1DAC0DDFA511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060795F4-89C7-43BE-8290-1DAC0DDFA511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF45ABFE-748F-4D84-9905-6849951C15EE}
+	EndGlobalSection
+EndGlobal
